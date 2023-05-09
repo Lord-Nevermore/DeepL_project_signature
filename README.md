@@ -9,11 +9,7 @@ Description: signatures of 30 people ( 5 authentic and 5 forged per person) <br>
 Shape: format .png <br>
 Variability: offline(handwritten) <br>
 Link:https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures <br>
-Modality: Images <br>
-Description: This dataset contains the signature of dutch users both genuine and fraud. (2149 in total) <br>
-Shape: format .png <br>
-Variability: offline(handwritten) <br>
-Link:https://www.kaggle.com/datasets/robinreni/signature-verification-dataset <br>
+
 
 ## Result Details
 Cosine similarity score ranges from 0 to 1, with 0 indicating no similarity and 1 indicating perfect similarity. This score can be easily interpreted and understood by both business and social users. For instance, a business user who wants to automate signature verification may set a threshold value for the cosine similarity score, below which the signature is rejected, while a social user who wants to authenticate signatures for legal or other purposes may use the same threshold value for the same purpose.
